@@ -38,3 +38,4 @@ elif score >= 2:
     print("🟡 MEDIUM")
 else:
     print("🔴 WEAK")
+print("bye")
